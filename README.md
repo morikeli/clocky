@@ -2,6 +2,17 @@
 
 ## Mobile app screenshots
 
+| Splash screen | Splash screen |
+| ------------- | ------------- |
+| image goes here | image goes here |
+| | |
+| | |
+| Homescreen (light mode) | Homescreen (dark mode) |
+| image goes here | image goes here |
+| | |
+| | |
+
+
 
 ## Overview
 This is a clock application developed for desktop and mobile. It is built for Android, iOS, Linux, macOS and Windows.
