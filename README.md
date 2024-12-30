@@ -1,4 +1,4 @@
-# Clock app
+# Clocky
 
 ## Mobile app screenshots
 
