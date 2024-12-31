@@ -4,6 +4,7 @@ flutter_native_splash:
   # The image parameter allows you to specify an image used in the splash screen.  It must be a
   # png file and should be sized for 4x pixel density.
   image: assets/icons/app-icon.png
+  #branding: assets/dart.png
 
   
   # The color_dark, branding_dark are parameters that set the background
@@ -13,6 +14,7 @@ flutter_native_splash:
   # set.
   color_dark: "#0D47A1"
   image_dark: assets/icons/app-icon.png
+  #branding_dark: assets/dart.png
 
   # From Android 12 onwards, the splash screen is handled differently than in previous versions.
   # Please visit https://developer.android.com/guide/topics/ui/splash-screen
@@ -31,6 +33,7 @@ flutter_native_splash:
 
     # Splash screen background color.
     color: "1565C0"
+    #branding: assets/dart.png
 
     # App icon background color.
     #icon_background_color: "#111111"
@@ -43,6 +46,7 @@ flutter_native_splash:
     # parameters from above.
     image_dark: assets/icons/app-icon.png
     color_dark: "#1565C0"
+    #branding_dark: assets/dart.png
     #icon_background_color_dark: "#eeeeee"
 
   # The android, ios and web parameters can be used to disable generating a splash screen on a given
