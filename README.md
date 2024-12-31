@@ -2,13 +2,13 @@
 
 ## Mobile app screenshots
 
-| Splash screen | Splash screen |
+| Splash screen | Homescreen (light mode) |
 | ------------- | ------------- |
-| image goes here | image goes here |
+| ![splash-screen](https://github.com/user-attachments/assets/1a35dba2-67c4-4df2-baf9-30fe3600ad52) | ![light-mode](https://github.com/user-attachments/assets/52f26600-910a-4aa6-9de9-14570e961b96) |
 | | |
 | | |
-| Homescreen (light mode) | Homescreen (dark mode) |
-| image goes here | image goes here |
+| Homescreen (dark mode) | Country cards on scroll |
+| ![dark-mode](https://github.com/user-attachments/assets/cdfbcf40-e3cc-45a2-8202-6cba95dcb8e7) | ![country-card-onscroll](https://github.com/user-attachments/assets/9854e0db-8d48-474f-8ef0-96f92c5d9809) |
 | | |
 | | |
 
